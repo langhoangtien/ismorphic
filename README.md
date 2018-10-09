@@ -2,6 +2,8 @@
 
 ### Please check `src/config.js` & edit as your app.
 
+### ADMIN DASHBOARD ###
+
 Installation Guide:
 https://redq.gitbooks.io/isomorphic/content/
 
